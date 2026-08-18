@@ -1,0 +1,6 @@
+{
+  "name": "Jeen Mata Mangal Path",
+  "description": "सम्पूर्ण माँ जीण शक्ति मंगल पाठ, आरती, चालीसा, नाम जापमाला एवं काजल शिखर धाम महिमा",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Trishul / Jyoti motif in 66dp safe zone -->
+    <!-- Golden Trishul Base & Shaft -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M52,38 L56,38 L56,76 L52,76 Z" />
+
+    <!-- Trishul Center Spearhead -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,22 L59,38 L49,38 Z" />
+
+    <!-- Trishul Left Prong Curve -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M52,42 C44,42 40,36 38,27 C37,36 42,48 52,48 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M38,26 L41,33 L35,32 Z" />
+
+    <!-- Trishul Right Prong Curve -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M56,42 C64,42 68,36 70,27 C71,36 66,48 56,48 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M70,26 L67,33 L73,32 Z" />
+
+    <!-- Sacred Akhand Diya / Deepak below Trishul -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M38,70 C38,80 70,80 70,70 L38,70 Z" />
+    <!-- Diya Base Stand -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M48,78 L60,78 L64,84 L44,84 Z" />
+
+    <!-- Sacred Diya Flame (Inner Orange, Outer Gold) -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M54,58 C51,63 50,66 50,69 C50,71 52,73 54,73 C56,73 58,71 58,69 C58,66 57,63 54,58 Z" />
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M54,63 C52.5,66 52,68 52,70 C52,71 53,72 54,72 C55,72 56,71 56,70 C56,68 55.5,66 54,63 Z" />
+
+    <!-- Sacred Tilak Bindu on top -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M54,44 A2,2 0 1,1 54,48 A2,2 0 1,1 54,44" />
+</vector>
